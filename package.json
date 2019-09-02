@@ -36,7 +36,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build --prefixed-paths",
+    "build": "gatsby build --prefix-paths",
     "develop": "gatsby develop",
     "deploy": "gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
