@@ -4,6 +4,7 @@ module.exports = {
     description: `Test project for career karma guys`,
     author: `@ilya.lopukhin`,
   },
+  pathPrefix: "/career_karma_test_task",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
